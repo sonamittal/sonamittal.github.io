@@ -1,4 +1,4 @@
-# sonamittal.github.io
+# sonamittal
 Hello 👋, This is my profile
 
 I am a MERN Stack developer and UI/UX designer.
