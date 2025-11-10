@@ -1,4 +1,4 @@
-# sonamittal
+# sonam mittal
 Hello 👋, This is my profile
 
 I am a MERN Stack developer and UI/UX designer.
@@ -8,6 +8,7 @@ I am a MERN Stack developer and UI/UX designer.
 📫 How to reach me: sonamittal285@gmail.com
 
 🌱 I’m currently learning DSA...
+
 
  
 
